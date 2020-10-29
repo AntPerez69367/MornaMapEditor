@@ -57,7 +57,7 @@
             // sb1
             // 
             this.sb1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.sb1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.sb1.Dock = System.Windows.Forms.DockStyle.Top;
             this.sb1.Location = new System.Drawing.Point(0, 288);
             this.sb1.Name = "sb1";
             this.sb1.Size = new System.Drawing.Size(288, 17);
